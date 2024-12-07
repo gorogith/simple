@@ -1,4 +1,4 @@
-# YouTube Video & Audio Downloader on python
+# YouTube Video & Audio Downloader with python
 
 Aplikasi download video dan audio YouTube dengan fitur antrian dan download playlist. Mendukung penggunaan di Linux dan Termux (Android).
 
